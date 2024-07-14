@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @Loomeh
-- 👀 I’m interested in Game Development, Reverse Engineering and Computers
-- 🌱 I’m currently learning pretty much everything
-- 💞️ I’m looking to collaborate on Game Development, Reverse Engineering and general programming projects
-- 📫 How to reach me: Discord - loomeh
+# Hi, I’m Loomeh
+I like building cool stuff.
+  
+## Things I'm currently working on:
+  - [LibreSplit](https://github.com/wins1ey/LibreSplit) - A speedrunning timer for Linux with auto splitting capabilities (memory reading).
+  - [The Beat Revival](https://beatrevival.me) - A Mirror's Edge Catalyst server emulator project
+
+## How to reach me:
+  - Email: zane@loomeh.tech
+  - Discord: loomeh
 
 [![Loomeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loomeh&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
