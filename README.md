@@ -4,6 +4,7 @@ I like building cool stuff.
 ## Things I'm currently working on:
   - [LibreSplit](https://github.com/wins1ey/LibreSplit) - A speedrunning timer for Linux with auto splitting capabilities (memory reading).
   - [The Beat Revival](https://beatrevival.me) - A Mirror's Edge Catalyst server emulator project
+  - [SpeedrunUtils](https://github.com/Loomeh/SpeedrunUtils) - A mod for Bomb Rush Cyberfunk that provides several QoL features for speedrunners such as auto splitting and macros.
 
 ## How to reach me:
   - Email: zane@loomeh.tech
