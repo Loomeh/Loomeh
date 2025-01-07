@@ -7,7 +7,7 @@ I like building stuff that I think is cool. You might think it's not, and that's
   - [SpeedrunUtils](https://github.com/Loomeh/SpeedrunUtils) - A mod for Bomb Rush Cyberfunk that provides several QoL features for speedrunners such as auto splitting and macros.
 
 ## How to reach me:
-  - Email: zane@loomeh.tech (Domain expiring soon, so keep notes on this.)
+  - Email: zanehj@loomeh.tech (Domain expiring soon, so keep notes on this.)
   - Discord: loomeh
 
 [![Loomeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loomeh&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
